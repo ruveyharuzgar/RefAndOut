@@ -1,0 +1,11 @@
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.csprojAssemblyReference.cache
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.AssemblyInfo.cs
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\bin\Debug\netcoreapp2.1\RefAndOut.deps.json
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\bin\Debug\netcoreapp2.1\RefAndOut.runtimeconfig.json
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\bin\Debug\netcoreapp2.1\RefAndOut.runtimeconfig.dev.json
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\bin\Debug\netcoreapp2.1\RefAndOut.dll
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\bin\Debug\netcoreapp2.1\RefAndOut.pdb
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.dll
+C:\Users\RuveyhaRuzgar\source\repos\RefAndOut\RefAndOut\obj\Debug\netcoreapp2.1\RefAndOut.pdb
