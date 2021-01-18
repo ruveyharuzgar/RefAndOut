@@ -1,6 +1,7 @@
 # RefAndOut
 ### Introduction to the topic
 
+-
 namespace RefAndOut
 {
     class Program
