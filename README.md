@@ -2,7 +2,7 @@
 ### Introduction to the topic
 
 
-namespace RefAndOut
+<pre>namespace RefAndOut
 {
     class Program
     {
@@ -32,7 +32,7 @@ namespace RefAndOut
             num1 = 2;
             double result = num1 * num2;
             return result;
-        }
+        }</pre>
 
 
         static void Main(string[] args)
