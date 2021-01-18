@@ -2,7 +2,7 @@
 ### Introduction to the topic
 
 
-namespace RefAndOut
+''' namespace RefAndOut
 {
     class Program
     {
@@ -74,4 +74,4 @@ namespace RefAndOut
 
         }
     }
-}
+}'''
